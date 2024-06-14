@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-<img src="{{site.baseurl}}/assets/images/mpramural.png" style="max-width: 50%;" />
+<img src="{{site.baseurl}}/assets/images/mpramural.png"/>
 
 
 CONTACT US
