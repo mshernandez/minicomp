@@ -4,6 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
+
 <img src="{{site.baseurl}}/assets/images/mpramural.png"/>
 
 
@@ -25,7 +26,9 @@ Phone: (808) 633-4474
 
 ## Credits
 
-<img src="{{site.baseurl}}/assets/images/nicole.png"/>
+
+<img src="{{site.baseurl}}/assets/images/nicole.jpg"/>
+
 
 Nicole Hernandez, MA
 nherna51@asu.edu
