@@ -5,8 +5,8 @@ gallery: True
 permalink: /collection/
 ---
 
-This site's sample collection comprises a set of objects, each of which is represented by one or more images. The collection items in this demo are from The Museum of Islamic Art, minicomp, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_minicomp) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The minicomp National Library (via [World Digital Library](https://www.wdl.org/en/)).
+Welcome to the Maui Puerto Rican Association digital archive. We are slowly developing this archive within our collective to document as many names and event details while our founding members remain with us. We welcome contributions from any Puerto Rican in Maui.  
 
-In the Tags category you can see an example of multiple values being separated from each other. Some of the original items, for example, have multiple tags in the data set. Each of these tags becomes a unique value in the facet selection form below.
+We have set up the search functions for filtering within tags, object types, locations, and authors. Many of the items have multiple tags in the data set. Additionally, there is a unique category called ethnographic notes where observations, additional detail, and direct quotes are included. 
 
-{% include gallery.html facet_by='object_type|location|tags*' collection='minicomp' num_column=4 %}
+{% include gallery.html facet_by='|author|object_type|location|tags*' collection='minicomp' num_column=4 %}

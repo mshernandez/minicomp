@@ -5,7 +5,8 @@ author:
   email: nherna51@asu.edu
 description:
   Welcome to the first archive dedicated to the Puerto Rican community in Hawaii
-baseurl: "/mauipuertoricanassociation"
+url: "https://mshernandez.github.io"
+baseurl: "/minicomp"
 
 # --------------------------------------------------------------
 # COLLECTION SETTINGS
@@ -62,7 +63,7 @@ menu:
   - label: "Exhibits"
     sub:
       - label: "Photography Collections"
-        link: "/exhibits/"
+        link: "/collection/"
       - label: "Oral History Collection"
         link: "/exhibits/oralhistory/"
       - label: "Physical Item Collection"
