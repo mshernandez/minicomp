@@ -8,8 +8,11 @@
 layout: home
 ---
 
-### Maui Puerto Rican Association <span style="color:#440027;font-size:small">
-<img src="/assets/images/mpralogobig.png"/>
+### Maui Puerto Rican Association
+
+
+<img src="{{site.baseurl}}/assets/images/mpralogobig.png"/>
+
 <em>The first community-driven archive of Hawaiian-Puerto Rican history in Hawaii</em>
 
 ---
