@@ -11,7 +11,7 @@ layout: home
 ### Maui Puerto Rican Association <span style="color:#440027;font-size:small">
 <img src="/assets/images/mpralogo.png">
 <em>The first community-driven archive of Hawaiian-Puerto Rican history in Hawaii</em>
-</span>
+
 ---
 
 <p style="text-align:center;"><img src="https://www.mauipuertoricanassociation.org/History/Images/MPRA-history-wp.png" alt="Logo"></p>
