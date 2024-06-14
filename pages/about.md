@@ -27,8 +27,6 @@ Phone: (808) 633-4474
 ## Credits
 
 
-<img src="{{site.baseurl}}/assets/images/nicole.jpg"/>
-
 
 Nicole Hernandez, MA
 nherna51@asu.edu
