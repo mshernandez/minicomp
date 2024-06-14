@@ -4,6 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
+<img src="/assets/images/mpramural.png">
 CONTACT US
 BY MAIL
 Maui Puerto Rican Association (MPRA)
