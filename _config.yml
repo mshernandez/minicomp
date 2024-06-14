@@ -74,5 +74,4 @@ menu:
     link: "/search/"
   - label: "Contact Us"
     link: "/contact/"
-  - label: "Contribute"
-    link: "/contribute/"
+
