@@ -1,0 +1,81 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/minicomp.json",
+  "@type": "sc:Collection",
+  "label": "minicomp",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/fld1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "fld1"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/fld10/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "fld10"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/fld11/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "fld11"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/fld12/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "fld12"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/fld13/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "fld13"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/fld2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "fld2"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/fld3/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "fld3"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/fld4/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "fld4"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/fld5/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "fld5"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/fld6/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "fld6"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/fld7/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "fld7"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/fld8/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "fld8"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/fld9/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "fld9"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/ph1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "ph1"
+    }
+  ]
+}
