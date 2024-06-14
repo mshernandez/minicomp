@@ -11,7 +11,7 @@ permalink: /contact/
 CONTACT US
 
 BY MAIL
-Maui Puerto Rican Association (MPRA)
+Maui Puerto Rican Association
 401 Baldwin Ave., Suite 202
 Paia, HI 96779
 
@@ -30,7 +30,9 @@ Phone: (808) 633-4474
 
 Nicole Hernandez, MA
 nherna51@asu.edu
+
 PhD Candidate, Socialcultural Anthropology
+
 Arizona State Univerity 
 
 
