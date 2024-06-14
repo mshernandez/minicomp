@@ -23,6 +23,7 @@ Phone: (808) 633-4474
 ---
 
 ## Credits
+
 <img src="/assets/images/nicole.png">
 
 Nicole Hernandez, MA
