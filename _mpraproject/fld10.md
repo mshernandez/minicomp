@@ -12,8 +12,8 @@ source: Scrapbook Year 2000
 description: 'Various Newspaper Clippings '
 ethnographic_note: N/A
 order: '09'
-layout: minicomp_item
-collection: minicomp
+layout: mpraproject_item
+collection: mpraproject
 thumbnail: "/img/derivatives/iiif/images/fld10_018/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/fld10_018/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/fld10/manifest.json"

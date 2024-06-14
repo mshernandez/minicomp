@@ -27,8 +27,8 @@ ethnographic_note: "The Maui County Fair permanently ended in 2019 after a 97 ye
   has caused a financial windfall for many community organizations, including MPRA.
   \r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\nSome of these photos are from the 1997 fair. "
 order: '06'
-layout: minicomp_item
-collection: minicomp
+layout: mpraproject_item
+collection: mpraproject
 thumbnail: "/img/derivatives/iiif/images/fld7_046/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/fld7_046/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/fld7/manifest.json"

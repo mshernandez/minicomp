@@ -20,8 +20,8 @@ description: "The MPRA annual christmas party is one of the most popular events 
   (guest), Blase and friends"
 ethnographic_note: Ann Gusman and Shirley are cousins.
 order: '03'
-layout: minicomp_item
-collection: minicomp
+layout: mpraproject_item
+collection: mpraproject
 thumbnail: "/img/derivatives/iiif/images/fld4_017/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/fld4_017/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/fld4/manifest.json"

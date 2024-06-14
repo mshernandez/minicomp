@@ -18,8 +18,8 @@ description: "A softball tournament hosted by the Torres family for three genera
   photos we see: Kristy Haleiakala and brother Blasie Statas keeping score. "
 ethnographic_note: N/A
 order: '04'
-layout: minicomp_item
-collection: minicomp
+layout: mpraproject_item
+collection: mpraproject
 thumbnail: "/img/derivatives/iiif/images/fld5_01/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/fld5_01/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/fld5/manifest.json"

@@ -13,8 +13,8 @@ description: N/A
 ethnographic_note: 'Prior to the opening of Heritage Hall in 2017, the association
   held all their events at the local James Walton Cameron Center. '
 order: '05'
-layout: minicomp_item
-collection: minicomp
+layout: mpraproject_item
+collection: mpraproject
 thumbnail: "/img/derivatives/iiif/images/fld6_01/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/fld6_01/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/fld6/manifest.json"

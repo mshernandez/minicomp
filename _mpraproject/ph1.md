@@ -17,8 +17,8 @@ ethnographic_note: 'During my interview with Dolores, she enthusiastically share
   herself was professional guitar player in her youth and alongside her sisters formed
   a band.  '
 order: '13'
-layout: minicomp_item
-collection: minicomp
+layout: mpraproject_item
+collection: mpraproject
 thumbnail: "/img/derivatives/iiif/images/ph1/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/ph1/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/ph1/manifest.json"

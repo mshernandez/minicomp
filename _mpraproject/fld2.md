@@ -25,8 +25,8 @@ ethnographic_note: 'The centennial celebration was a unique event that featured 
   state of Hawai''I held a Miss Puerto Rico pagent. Today that pagent has become the
   Miss Hawaii Latina, ran by Nancy Ortiz. '
 order: '01'
-layout: minicomp_item
-collection: minicomp
+layout: mpraproject_item
+collection: mpraproject
 thumbnail: "/img/derivatives/iiif/images/fld2_01/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/fld2_01/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/fld2/manifest.json"

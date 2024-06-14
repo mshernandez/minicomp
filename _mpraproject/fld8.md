@@ -20,8 +20,8 @@ ethnographic_note: 'The beautiful quilt is housed in storage at the MPRA cultura
   resource center. We hope to aquire archival-quality storage for the quilt in the
   near future and set it out for display. '
 order: '07'
-layout: minicomp_item
-collection: minicomp
+layout: mpraproject_item
+collection: mpraproject
 thumbnail: "/img/derivatives/iiif/images/fld8_028/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/fld8_028/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/fld8/manifest.json"

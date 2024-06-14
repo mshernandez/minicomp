@@ -21,8 +21,8 @@ description: "An annual celebration that began in 1990, the Three Kings Day Cele
 ethnographic_note: 'This popular event is always open to the public but members state
   mostly their families attend. It is one of two events that continue up to today. '
 order: '00'
-layout: minicomp_item
-collection: minicomp
+layout: mpraproject_item
+collection: mpraproject
 thumbnail: "/img/derivatives/iiif/images/fld1_000/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/fld1_000/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/fld1/manifest.json"

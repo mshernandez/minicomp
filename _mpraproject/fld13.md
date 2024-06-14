@@ -28,8 +28,8 @@ ethnographic_note: "MPRA's scholarships is one of the most generous scholarships
   Tavares was mayor of Maui in 1980 and was who encourage Dolores Bio and Audrey Rocha
   to create the Maui Puerto Rican Association."
 order: '12'
-layout: minicomp_item
-collection: minicomp
+layout: mpraproject_item
+collection: mpraproject
 thumbnail: "/img/derivatives/iiif/images/fld13_048/full/250,/0/default.jpg"
 full: "/img/derivatives/iiif/images/fld13_048/full/1140,/0/default.jpg"
 manifest: "/img/derivatives/iiif/fld13/manifest.json"
