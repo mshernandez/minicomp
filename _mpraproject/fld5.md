@@ -14,8 +14,8 @@ description: "A softball tournament hosted by the Torres family for three genera
   of Hawaii. The teams included an open league, senior league, and a men's and women's
   league. For three days, and across three fields the teams faced double elimination
   rounds to decide the winners. These pictures were probably from the last year the
-  family held the tournament. The family remains in Maui today. \r\r\n\r\r\nIn the
-  photos we see: Kristy Haleiakala and brother Blasie Statas keeping score. "
+  family held the tournament. The family remains in Maui today. \r\r\n\r\r\n\r\r\n\r\r\nIn
+  the photos we see: Kristy Haleiakala and brother Blasie Statas keeping score. "
 ethnographic_note: N/A
 order: '04'
 layout: mpraproject_item

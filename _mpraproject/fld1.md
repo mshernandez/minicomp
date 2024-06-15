@@ -11,13 +11,14 @@ current_location: MPRA Puerto Rican Cultural Resource Room
 source: Scrapbook Year 2000
 description: "An annual celebration that began in 1990, the Three Kings Day Celebration
   stage play involves association members young and old. Liz Montero helped direct
-  the play, she remains active to today. \r\r\n\r\r\nMembers in the various photos
-  include:\r\r\n\r\r\n- Stage: Ann Gusman singing and Phil Secretario (Philipino)
-  playing guitar. Drummer boy is Kaden Haleiakala (Ann Gusman's grandson). Collectively
-  the signs spell out Christmas.\r\r\n- Preparation Photos: Ann Gusman and grandson,
-  Harry Gibson, Margo Kaima, Harry Gibson \r\r\n- Chorus Group sings 'Christ is King':
-  Rosilian Demelo, Margo Kaiama, Elizabeth Montiero, Romero Bio, Dolores Bio, Flora
-  Melendez, George Flores, Frankie Richardson"
+  the play, she remains active to today. \r\r\n\r\r\n\r\r\n\r\r\nMembers in the various
+  photos include:\r\r\n\r\r\nmpraprojectmpraproject\r\r\n\r\r\n- Stage: Ann Gusman
+  singing and Phil Secretario (Philipino) playing guitar. Drummer boy is Kaden Haleiakala
+  (Ann Gusman's grandson). Collectively the signs spell out Christmas.\r\r\n\r\r\n-
+  Preparation Photos: Ann Gusman and grandson, Harry Gibson, Margo Kaima, Harry Gibson
+  \r\r\n\r\r\n- Chorus Group sings 'Christ is King': Rosilian Demelo, Margo Kaiama,
+  Elizabeth Montiero, Romero Bio, Dolores Bio, Flora Melendez, George Flores, Frankie
+  Richardson"
 ethnographic_note: 'This popular event is always open to the public but members state
   mostly their families attend. It is one of two events that continue up to today. '
 order: '00'
