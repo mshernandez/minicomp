@@ -5,7 +5,7 @@ author: Maui Puerto Rican Assocation
 _date: Thursday, March 30, 2000
 date_created: 6/14/2024
 location: James Walter Cameron Center
-tags: Officers|Membership Event|Administration
+tags: Officers|Membership Event|Administrative Doc
 object_type: Photos
 current_location: MPRA Puerto Rican Cultural Resource Room
 source: Scrapbook Year 2000

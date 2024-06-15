@@ -2,41 +2,13 @@
 layout: none
 ---
 {
-  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/fld1_000.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/fld1_001.json",
   "@type": "sc:Sequence",
   "canvases": [
     {
       "@type": "sc:Canvas",
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/fld1_000.json",
-      "label": "Page 1",
-      "width": 2592,
-      "height": 3256,
-      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/fld1_000/full/250,/0/default.jpg",
-      "images": [
-        {
-          "@type": "oa:Annotation",
-          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/fld1_000.json",
-          "motivation": "sc:painting",
-          "resource": {
-            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/fld1_000/full/full/0/default.jpg",
-            "@type": "dcterms:Image",
-            "format": "image/jpeg",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/fld1_000",
-              "profile": "http://iiif.io/api/image/2/level0.json"
-            },
-            "width": 2592,
-            "height": 3256
-          },
-          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/fld1_000.json"
-        }
-      ]
-    },
-    {
-      "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/fld1_001.json",
-      "label": "Page 2",
+      "label": "Page 1",
       "width": 2601,
       "height": 3270,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/fld1_001/full/250,/0/default.jpg",
@@ -64,7 +36,7 @@ layout: none
     {
       "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/fld1_002.json",
-      "label": "Page 3",
+      "label": "Page 2",
       "width": 2588,
       "height": 3264,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/fld1_002/full/250,/0/default.jpg",
@@ -92,7 +64,7 @@ layout: none
     {
       "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/fld1_003.json",
-      "label": "Page 4",
+      "label": "Page 3",
       "width": 2628,
       "height": 3276,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/fld1_003/full/250,/0/default.jpg",
@@ -120,7 +92,7 @@ layout: none
     {
       "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/fld1_004.json",
-      "label": "Page 5",
+      "label": "Page 4",
       "width": 2592,
       "height": 3288,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/fld1_004/full/250,/0/default.jpg",
@@ -148,7 +120,7 @@ layout: none
     {
       "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/fld1_005.json",
-      "label": "Page 6",
+      "label": "Page 5",
       "width": 1984,
       "height": 2546,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/fld1_005/full/250,/0/default.jpg",
@@ -176,7 +148,7 @@ layout: none
     {
       "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/fld1_045.json",
-      "label": "Page 7",
+      "label": "Page 6",
       "width": 2478,
       "height": 3123,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/fld1_045/full/250,/0/default.jpg",

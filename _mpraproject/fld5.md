@@ -6,7 +6,7 @@ _date: Friday, May 26, 2000
 date_created: 6/14/2024
 location: Kalama Park in Kihei
 tags: Softball|Baseball|Family|Park|Invitation
-object_type: Photos|Doc
+object_type: Photos
 current_location: MPRA Puerto Rican Cultural Resource Room
 source: Scrapbook Year 2000
 description: "A softball tournament hosted by the Torres family for three generations
@@ -14,7 +14,7 @@ description: "A softball tournament hosted by the Torres family for three genera
   of Hawaii. The teams included an open league, senior league, and a men's and women's
   league. For three days, and across three fields the teams faced double elimination
   rounds to decide the winners. These pictures were probably from the last year the
-  family held the tournament. The family remains in Maui today. \r\r\n\r\r\n\r\r\n\r\r\nIn
+  family held the tournament. The family remains in Maui today. \r\r\r\r\n\r\r\r\r\n\r\r\r\r\n\r\r\r\r\nIn
   the photos we see: Kristy Haleiakala and brother Blasie Statas keeping score. "
 ethnographic_note: N/A
 order: '04'
