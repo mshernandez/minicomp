@@ -11,9 +11,7 @@ layout: home
 ### Maui Puerto Rican Association
 
 
-<img src="{{site.baseurl}}/assets/images/mpramural.png"/>
-
-<em>The first community-driven archive of Hawaiian-Puerto Rican history in Hawaii</em>
+<img src="{{site.baseurl}}/assets/images/mpralogobig.png" width="100" hieght="50"> <strong>A community-driven archive of Hawaiian-Puerto Rican history<strong>
 
 ---
 
