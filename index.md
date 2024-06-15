@@ -11,7 +11,7 @@ layout: home
 [### Maui Puerto Rican Association.]: #
 
 
-<BR CLEAR=”right” /><img src="{{site.baseurl}}/assets/images/mpralogobig.png" width="300" hieght="200" ALIGN="Left" />  <strong>A community-driven archive of Hawaiian-Puerto Rican history embarked on in Janurary 2024 with support from the Caribbean Digital Scholarship Collective<strong>
+<img src="{{site.baseurl}}/assets/images/mpralogobig.png" width="300" hieght="200" ALIGN="Left" />  <strong>A community-driven archive of Hawaiian-Puerto Rican history embarked on in Janurary 2024 with support from the Caribbean Digital Scholarship Collective<strong>
 
 ---
 
