@@ -35,7 +35,7 @@ Today, there are nearly 40,000 Puerto Ricans living in the islands of Hawai'i; t
 
 Music is a large part of Puerto Rican culture. They brought their musical instruments and introduced to Hawai'i their cuatro, a four-stringed guitar, that later evolved into a ten-stringed model. Maracas and the guiro (a percussion instrument made from a dried gourd) were also introduced." 
 
-<i>  **content pulled from the Muai PR Association website** <i>
+<i>  **content pulled from the Maui PR Association website** <i>
 
 <iframe width="350" height="315" src="https://www.youtube.com/embed/584iWe9cme0?si=QIXdIhkohLwhCS0z" title="YouTube video player" frameborder="3" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
